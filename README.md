@@ -151,4 +151,5 @@ Topics generated:
 ```
 
 Topic distribution:
+
 ![Topic distribution](out/sample_topic_distribution.png)
