@@ -130,9 +130,9 @@ This repository has the following structure:
         main.py
 
 ```
-<!-- REPRODUCIBILITY -->
+<!-- RESULTS -->
 ## Results
-The following results were obtained using the headline dataset and using the default arguments for the ```main.py``` script.
+The following results were obtained using the first 10,000 rows of the headline dataset and using the default arguments for the ```main.py``` script.
 
 Topics generated:
 ```
