@@ -80,7 +80,7 @@ The ```main.py``` script performs the following steps:
 5. Saves a new CSV file with topics assigned to each data entry
 6. Plots the results and saves the plot as a .png file
 
-To use the script with the provided sample data, run the following line in the terminal:
+To use the script with the sample data, run the following line in the terminal:
 
 ```bash
 python3 src/main.py
@@ -132,8 +132,9 @@ This repository has the following structure:
 ```
 <!-- REPRODUCIBILITY -->
 ## Results
-The following results were obtained using the provided sample data and using the default arguments for the ```main.py``` script.
+The following results were obtained using the headline dataset and using the default arguments for the ```main.py``` script.
 
+Topics generated:
 ```
     Topic  Count                                  Name                   CustomName
 0      -1   7973                -1_us_govt_iraq_police             us - govt - iraq
@@ -149,4 +150,5 @@ The following results were obtained using the provided sample data and using the
 10      9    165     9_hospital_health_doctors_medical  hospital - health - doctors
 ```
 
+Topic distribution:
 ![Topic distribution](out/sample_topic_distribution.png)
