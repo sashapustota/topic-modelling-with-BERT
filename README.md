@@ -7,7 +7,7 @@
 
 
   <p align="center">
-    Aleksandrs Baskakovs
+
   </p>
 </p>
 
